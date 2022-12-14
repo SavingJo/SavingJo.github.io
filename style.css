@@ -1,0 +1,17 @@
+html {
+    font-size: 18px;
+    font-family: Courier;
+    text-align: center;
+}
+
+.row {
+    background-color: black;
+}
+
+div {
+    color: white;
+}
+
+body {
+    background-image: url(banana_man.jfif);
+}
