@@ -9,3 +9,11 @@ div {
     color: black;
     text-align: center;
 }
+
+body {
+  background-image: url("Willvault.jfif);
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+  background-position: center;
+  background-size: cover;
+}
