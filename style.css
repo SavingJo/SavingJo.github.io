@@ -3,6 +3,7 @@
     font-family: Merriweather;
     text-color: black;
     text-align: center;
+    background-color: #ffffff;
 }
 
 html {
@@ -10,7 +11,4 @@ html {
   background-color: #cccccc; /* Used if the image is unavailable */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
-}
-div {
-    background-color: #ffffff;
 }
