@@ -12,18 +12,6 @@ html {
   background-size: cover; /* Resize the background image to cover the entire container */
 }
 
-p {
-    background-color: white;
-}
-
-h1 {
-    background-color: white;
-}
-
-h2 {
-    background-color: white;
-}
-
-a {
+div {
     background-color: white;
 }
