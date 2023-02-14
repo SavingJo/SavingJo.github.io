@@ -1,7 +1,7 @@
 * {
     font-size: 18px;
     font-family: Merriweather;
-    text-color: white;
+    text-color: black;
     text-align: center;
 }
 
@@ -13,5 +13,9 @@ html {
 }
 
 p {
+    background-color: white;
+}
+
+h1 {
     background-color: white;
 }
